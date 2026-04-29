@@ -340,3 +340,62 @@ Sanjeevni/
 *Sanjeevni — Because the next Code Red cannot wait.*
 
 </div>
+
+
+## 👥 Team & Contributions
+
+<div align="center">
+
+**Core Development Team — Sanjeevni**
+
+</div>
+
+---
+
+### 🧠 Rakesh Gupta —
+Machine Learning Engineer  
+🔗 https://github.com/Raakeshguptaa  
+
+**Contributions:**
+- Built and trained the Random Forest model for patient surge prediction  
+- Developed FastAPI microservice for ML inference  
+- Implemented prediction logic with lag features and growth control  
+- Optimized model performance and stability  
+
+---
+
+### ⚙️ Vineet Kumar Sahu —
+Backend Developer  
+🔗 https://github.com/Krishna-Vineet  
+
+**Contributions:**
+- Developed REST APIs using Node.js and Express  
+- Designed MongoDB schemas and handled database operations  
+- Implemented authentication using JWT and bcrypt  
+- Built transfer system, resource exchange, and hospital modules  
+
+---
+
+### 🖥️ Vikas Kumar —
+Frontend Developer  
+🔗 https://github.com/vikas-kumar004  
+
+**Contributions:**
+- Built UI using React, Vite, and Tailwind CSS  
+- Developed Dashboard, Transfer, and Resource pages  
+- Integrated APIs using Axios  
+- Managed routing and state for smooth UX  
+
+---
+
+### 🤖 Shivam Mishra —
+AI Doctor 
+🔗 https://github.com/Shivam-Mishra-2004  
+
+**Contributions:**
+- Implemented Smart Doctor using Gemini AI  
+- Designed AI interaction and prompt system  
+- Integrated AI into frontend interface  
+- Contributed to UI development  
+
+---
